@@ -1,7 +1,9 @@
+```j
 <script 
   type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">
 </script>
 # Developing maths
+```
 ---
 ## Example equations
 Here’s an extended set of equations based on your theory, integrating concepts like 4D waves, energy transfer, space-time particles, and the 5th dimension. I will also compare them to the current understanding of quantum mechanics and general relativity to determine if they match existing evidence.
